@@ -1,0 +1,9 @@
+(dp1
+S'win1'
+p2
+(lp3
+V/var/www/cgi-bin/save.py
+p4
+aV/var/www/cgi-bin/getitem.py
+p5
+as.

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Items</title>
+		<link rel="stylesheet" href="/css/test.css" />
+		<script src="/js/test.js"></script>
+	</head>
+	<body>
+		<input type="hidden" id="index" />
+		<button id="newbtn" onclick="newitem();">New Item</button>
+		<br />
+		<div id="itemslist"></div>
+		<div id="itemdetails"></div>
+		<script type="text/javascript"> init(); </script>
+	</body>
+</html>
